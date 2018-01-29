@@ -1,5 +1,5 @@
 {
-  "name": "magic",
+  "name": "magic-method",
   "version": "1.0.0",
   "description": "call object method with procedural like style",
   "main": "magic.js",
