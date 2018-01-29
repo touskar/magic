@@ -1,0 +1,25 @@
+{
+  "name": "magic",
+  "version": "1.0.0",
+  "description": "call object method with procedural like style",
+  "main": "magic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touskar/magic.git"
+  },
+  "keywords": [
+    "magic",
+    "method",
+    "procedural",
+    "proxy"
+  ],
+  "author": "Moussa Ndour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touskar/magic/issues"
+  },
+  "homepage": "https://github.com/touskar/magic#readme"
+}
